@@ -7,3 +7,6 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 ![Screen Shot 2019-03-18 at 2 42 07 PM](https://user-images.githubusercontent.com/45184666/54558609-2a927080-498c-11e9-9eb9-b42d3e0806cc.png)
 2. If a purchase is wanted to be made, the user will be displayed with items availaible in the store's inventory. A similar display will be seen if the browse option is selected.
+
+![Screen Shot 2019-03-18 at 2 46 20 PM](https://user-images.githubusercontent.com/45184666/54558861-b99f8880-498c-11e9-9add-5ca1737ed033.png)
+3. Once the user selects the desired item they would like to purchase, a series of prompts will be followed such as the ID of the item, quantity, and confirmation that the purchase has been placed.
